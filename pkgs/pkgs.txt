@@ -1,0 +1,88 @@
+### ArchDots ###
+ 
+# --[ Apps ]--
+firefox
+mirage
+gtk-theme-switch2
+evince
+ffmpegthumbnailer
+gnome-screenshot
+gpicview
+libgsf
+lxappearance
+thunar
+thunar-archive-plugin
+thunar-volman
+tumbler
+vlc
+mpd
+xarchiver
+
+# --[ utilities ]--
+bat
+exa
+gitstatus-bin
+picom
+rofi
+wezterm
+wired
+xorg-xset
+
+# --[ Icons_theme ]--
+candy-icons-git
+whitesur-icon-theme-git  
+
+# --[ Shell ]--
+zsh
+zsh-autosuggestions
+zsh-syntax-highlighting
+zsh-sudo-git
+
+# --[ Fonts ]--
+ttf-ubuntu-mono-nerd
+ttf-nerd-fonts-symbols-2048-em
+noto-fonts
+noto-fonts-emoji
+otf-cascadia-code-nerd
+
+
+
+# --[ qtile ]--
+brightnessctl
+pacman-contrib
+pamixer
+playerctl
+python-dbus-next
+python-psutil
+qtile-extras-git
+qtile-git
+ttf-sourcecodepro-nerd
+
+# --[ neovim ]--
+fd
+neovim
+nvchad-git
+npm
+python-pip
+python-virtualenv
+ripgrep
+unzip
+wget
+xclip
+
+# --[ themes ]--
+catppuccin-gtk-theme-mocha
+
+# --[ optional packages ]--
+htop
+icu69-bin
+neofetch
+wgetpaste
+xcolor
+xorg-server-xephyr
+discord
+spotify 
+obsidian 
+notion
+onlyoffice-bin
+caprine
