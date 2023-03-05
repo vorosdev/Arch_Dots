@@ -1,8 +1,0 @@
-### ArchDots ###
-
-# --[Disk]--
-udiskie
-udisks2
-ntfs-3g
-gnome-disk-utility
-
